@@ -1,0 +1,38 @@
+/* style generalne - start */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+}
+
+.separator {
+    font-size: 1.5em;
+    padding: 1em 0;
+    text-align: center;
+    background-color: aquamarine;
+}
+
+.bg1 {
+    background-image: url("../bg1.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height: 33vh;
+}
+
+.bg2 {
+    background-image: url("../bg2.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height: 33vh;
+}
+
+.bg3 {
+    background-image: url("../bg3.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height: 33vh;
+}
